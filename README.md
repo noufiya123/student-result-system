@@ -32,7 +32,7 @@ A simple web-based PHP and MySQL application to manage student exam results, bui
 ## 📸 Screenshots
 
 ### 🔐 Admin Login
-![Login Page](screenshots\loginpage.png)
+![Login Page](screenshots/loginpage.png)
 
 ### ➕ Add Result Form
 ![Add Result](screenshots\add_result.png)
