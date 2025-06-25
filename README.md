@@ -23,7 +23,7 @@ A simple web-based PHP and MySQL application to manage student exam results, bui
 1. Download & install [XAMPP](https://www.apachefriends.org/)
 2. Place the project folder in `htdocs/`
 3. Import `results_db.sql` into phpMyAdmin
-4. Visit: `http://localhost/student-result-system/login.php`
+4. Visit: https://studentresult12.rf.gd/login.php
 5. Use admin credentials:
    - **Username:** `admin`
    - **Password:** `admin123`
