@@ -35,8 +35,8 @@ A simple web-based PHP and MySQL application to manage student exam results, bui
 ![Login Page](screenshots/loginpage.png)
 
 ### ➕ Add Result Form
-![Add Result](screenshots\add_result.png)
+![Add Result](screenshots/add_result.png)
 
 ### 📋 View Results
-![View Results](screenshots\view_result.png)
+![View Results](screenshots/view_result.png)
 
